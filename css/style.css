@@ -19,3 +19,24 @@ input {
 /******************************************
 /* ADDITIONAL STYLES
 /*******************************************/
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url(../images/bg1.png);
+  background-size: cover;
+
+}
+
+/* img {
+  width: 15em;
+} */
+
+h1,h2,h3 {
+  font-family: Roboto,cursive;
+}
+
+h3 {
+  width: 20em;
+}
