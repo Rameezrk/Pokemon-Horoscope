@@ -26,7 +26,8 @@ body {
   align-items: center;
   background-image: url(../images/bg1.png);
   background-size: cover;
-
+  background-repeat: no-repeat;
+  background-color: rgb(127, 173, 113)
 }
 
 /* img {
@@ -43,8 +44,13 @@ h3 {
 
 @media screen and (max-width: 480px) {
 
-  body {
-    background-size: cover;
+
+  /* h2 {
+    font-family: fantasy;
+  } */
+
+  form {
+    width: 500px;
   }
 
 }
