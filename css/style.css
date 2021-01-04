@@ -40,3 +40,11 @@ h1,h2,h3 {
 h3 {
   width: 20em;
 }
+
+@media screen and (max-width: 480px) {
+
+  body {
+    background-size: cover;
+  }
+
+}
