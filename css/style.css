@@ -44,13 +44,14 @@ h3 {
 
 @media screen and (max-width: 480px) {
 
-/*change*/
-  /* h2 {
-    font-family: fantasy;
+  /* body {
+  -ms-transform: scale(1.1, 1.1);
+  -webkit-transform: scale(1.1, 1.1);
+  transform: scale(1.1, 1.1);
   } */
 
-  form {
-    width: 500px;
+  body form {
+    /* margin-left: -5em; */
   }
 
 }
