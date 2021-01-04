@@ -51,8 +51,15 @@ TEST
   transform: scale(1.1, 1.1);
   } */
 
-  body form {
-    /* margin-left: -5em; */
+  body  {
+    text-align: center;
+    padding: 2em 5em;
+
   }
+
+  #output {
+    font-size: 1em;
+  }
+
 
 }
